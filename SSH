@@ -1,0 +1,2 @@
+$ ssh-keygen -t ed25519 -C "wangliu1120@gmail.com"
+> Generating public/private algorithm key pair.
